@@ -9,6 +9,6 @@ The Board of Directors may be contacted by email at swan-crest-board@googlegroup
 In Progress - Any member of the Association can create an Issue to discuss with the board or the Association by opening an issue on this repository.
 
 ## Documents
-* In Progress - Articles of incorportation
+* In Progress - Articles of Incorportation
 * [By Laws](./bylaws.md)
 * In Progress - CC&Rs
