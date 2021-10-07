@@ -283,3 +283,22 @@ Each Lot Owner, at the time of purchase of his/her lot, shall make a Start-up co
 ## Section 7.4 Special Assessments; Capital Improvements.
 In addition to the annual assessments authorized above, the Association may levy, in any Assessment year, 4 special assessment applicable to that year only for the purpose of defraying, in whole or in part, the cost of any construction, reconstruction, repair or replacement of the Improvements upon the Common Area or any other area owned. or required to be maintained by the Association, provided that such assessment shall be approved by a majority of the members voting at a meeting duly called for such purpose. 
 
+# Article 6. Lien And Collection Of Assessments.
+
+## Section 8.1 Assessments Are a Lien; Priority.
+All unpaid sums assessed by the Association specially assessed to any Lot under the authority of this Declaration shall constitute a lien on the Lot end all its appurtenances from the date the assessment becomes due and until fully paid. The lien for such unpaid assessments shall be subordinate to tax liens on the Lot in favor of any assessing unit and/or special district, and to all sums unpaid on all First Mortgages of record, but, to the extent permitted by applicable law, shall have priority over all other liens against the Lot. A First Mortgagee that obtains possession through a Mortgage foreclosure or deed of trust sale, or by taking a deed in lieu of foreclosure or sale, or a purchaser at a foreclosure sale, shall take the Lot free of any claims for the share of assessments by the Association chargeable to the Lot which became due before such possession, but will be liable for assessments that accrue after the taking of possession. Notwithstanding any of the foregoing, however, the Owner and the real estate contract purchaser shall continue to be personally liable for past due assessments as provided in Section 7.3. For purposes of this Section, "Mortgage" does not include a real estate contract and "Mortgagee" does not include the vendor or the assignee or designee of a vendor of a real estate contract.
+
+## Section 8.2 Lien May Be Foreclosed.
+The lien for delinquent assessments may be foreclosed by suit by the Board, acting on behalf of the Association, in like manner as the foreclosure of a mortgage of real property. The Board, acting on behalf of the Association, shall have the power to bid in the Lot at the foreclosure sale, and to acquire and hold, lease, mortgage, and convey the same.
+
+## Section 8.3 Assessments are Personal Obligations.
+In addition to constituting a lien on the Lot, all sums assessed by the Association chargeable to any Lot together with interest, late charges, costs and attorneys' fees in the event of delinquency, shall be the joint and several personal obligations of the Owner and any contract purchaser of the Lot when the assessment is made and their grantees. Suit to recover personal judgment for any delinquent assessments shall be maintainable without foreclosing or waiving the liens securing them.
+
+## Section 8.4 Late Charges and Interest on Delinquent Assessments.
+The Board may from time to time establish late charge and a rate of interest to be charged on assessments delinquent for a period of more than 10 days after the date when due. In the absence of another established, nonusurious rate, delinquent assessments shall bear interest at the rate of 12% per annum. If an installment on an assessment against a Lot is not paid when due, the Board may elect to declare the entire assessments  against the Lot for the remainder of the fiscal year to be immediately due and payable.
+
+## Section 8.5 Remedies Cumulative.
+The remedies provided herein are cumulative and the Board may pursue them, and any other remedies which may be available under law although not expressed herein, either concurrently or in any order.
+
+## Section 8.6 No Avoidance of Assessments.
+No Owner may avoid or escape liability for assessments provided for herein by abandoning his or her Lot.
