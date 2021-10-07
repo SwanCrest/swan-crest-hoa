@@ -18,7 +18,7 @@ The Property is subdivided as shown in the Plat for Shadows at Swan Lake recorde
 
 Declarant wishes to subject the Property to this Declaration.
 
-NOW, THEREFORE, Declarant declares that the Property subject to all restrictions and easements of the Plat, shall be held, transferred, sold, conveyed, leased, used and occupied subject to the covenants, conditions, restrictions, easements, assessments, and liens hereinafter set forth which are for the puroose of protecting the value and desirability of and which shall touch and concern and run with title to the Property and which shall be binding on all parties having any right, title, or interest in the Property or any portion thereof, and their respective heirs, successers and assigns, and shall inure to the benefit of each owner thereof.
+Now, therefore, Declarant declares that the Property subject to all restrictions and easements of the Plat, shall be held, transferred, sold, conveyed, leased, used and occupied subject to the covenants, conditions, restrictions, easements, assessments, and liens hereinafter set forth which are for the purpose of protecting the value and desirability of and which shall touch and concern and run with title to the Property and which shall be binding on all parties having any right, title, or interest in the Property or any portion thereof, and their respective heirs, successors and assigns, and shall inure to the benefit of each owner thereof.
 
 # Article 1. Definitions
 
@@ -334,3 +334,6 @@ If Declarant, at its option, determines that it is necessary so to amend the Dec
 
 # Section 16.3 Duration.
 Declarant's rights under this Article 15 shall exist only until the Transition Date.
+
+# Article 17. Severability.
+The provisions of this Declaration shall be independent and severable, and the unenforceability of any one provision shall not affect the enforceability of any other provision, if the remainder affects the common plan.
