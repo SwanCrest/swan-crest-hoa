@@ -302,3 +302,6 @@ The remedies provided herein are cumulative and the Board may pursue them, and a
 
 ## Section 8.6 No Avoidance of Assessments.
 No Owner may avoid or escape liability for assessments provided for herein by abandoning his or her Lot.
+
+# Article 9. Failure Of Board To Insist On Strict Performance No Waiver.
+The failure of the Board in any instance to insist upon the strict compliance with this Declaration or rules and regulations of the Association, or to exercise any right contained in such documents, or to serve any notice or to institute any action, shall not be construed as a waiver or a relinquishment for the future of any term, covenant, condition, or restriction. The receipt by the Board of payment of any assessment from an Owner, with knowledge of any breach by the Owner, shall not be a waiver of the breach. No waiver by the Board of any requirement shall be effective unless expressed in writing and signed for the Board. 
