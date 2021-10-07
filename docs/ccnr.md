@@ -337,3 +337,28 @@ Declarant's rights under this Article 15 shall exist only until the Transition D
 
 # Article 17. Severability.
 The provisions of this Declaration shall be independent and severable, and the unenforceability of any one provision shall not affect the enforceability of any other provision, if the remainder affects the common plan.
+
+# Article 18. Effective Date.
+This Declaration shall be effective upon recording.
+
+# Article 19. Assignment By Declarant.
+Declarant reserves the right to assign, transfer, sell, lease, or rent all or any portion of the Property and reserves the right to assign or delegate all or any of its rights, duties, and obligations created under this Declaration.
+
+DATED as of the date first written above.
+
+DECLARANT: COUNTRYWOOD HOMES, INC., a Washington corporation
+![Dennis Kohloff Signature](../img/ccnr_sig1.png)
+
+![State of WA Notary](../img/ccnr_notrary.png)
+
+# Exhibit A. Legal Description of the Property.
+Missing
+
+# Exhibit B. Description of Landscape Easement.
+![Exhibit B-1](../img/exhibit_b_1.png)
+![Exhibit B-2](../img/exhibit_b_2.png)
+![Exhibit B-3](../img/exhibit_b_3.png)
+![Exhibit B-4](../img/exhibit_b_4.png)
+
+# Exhibit C. Fence Detail.
+![Exhibit C-1](../img/exhibit_c_1.png)
