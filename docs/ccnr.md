@@ -250,3 +250,13 @@ The Board shall cause to be kept complete, detailed, and accurate books and reco
 
 ## Section 4.10 Transition Date.
 The "Transition Date" shall be the date control of the Board passes from the initial Board to the Association. Prior to the Transition Date, Declarant shall be entitled to exercise all rights and powers of the Board and the Association. At Declarant's option, the Transition Date will be either: (i) the date designated by Declarant in a written notice to the Owners, which date may be by Declarant’s election any date after this Declaration has been recorded; or (ii) the 12th day after Declarant has transferred title to purchasers title to all Lots in the Property. For purposes of the foregoing clause (ii) transfer of title to a Lot by Declarant to any Participating Builder shall be disregarded and title to any Lot owned by Participating Builder shall not be deemed transferred for purposes of determining the Transition Date until the Lot is further transferred by Participating Builder to a purchaser who is not either a Participating Builder or Declarant. 
+
+# Article 5. Notices For All Purposes.
+All notices given under the provisions of this Declaration or rules or regulations of the Association shall be in writing and may be delivered either personally or by mail. If delivery is made by mail, the notice shall be deemed to have been delivered on the third day of regular mail delivery after a copy has been deposited in the United States mail, first class, postage prepaid, addressed to the Person entitled to such notice at the most recent address known to the Board. Mailing addresses may be changed by notice in writing to the Board. Notices to the Board may be given to any Director or mailed to the following address:
+
+Board of Directors c/o Dennis Kohloff</br>
+Shadows at Swan Lake Homeowners Association</br>
+14410 Bel—Red Road, Suite 200</br>
+Bellevue, Washington 98007</br>
+
+The Board's address may be changed from time to time by the execution and recording of an instrument in the real property Records of King County, Washington which (1) refers to this Declaration and this Article V and (ii) sets forth the Board's new address.
