@@ -320,3 +320,17 @@ After the Transition Date, any Lot Owner may propose amendments to this Declarat
 
 # Article 14. Annexation And Subdivision.
 Residential property other than common areas may be annexed or added to the Property by Declarant at any time prior to the Transition Date. Thereafter, residential property other than common areas may be annexed or added to the Property only with the consent of 67% of the Lot Owners. No Lot shall be subdivided or combined without the approval of all Lot Owners.
+
+# Article 15. Duration.
+The covenants, conditions, and restrictions of this Declaration shall run with and bind the Property and shall inure to the benefit of and be enforceable by the Owners, their respective legal representatives, heirs, successors, and assigns, for a period of 15 years from the date this Declaration is recorded, after which time the covenants, conditions and restrictions shall be automatically extended for successive periods of 10 years each unless an instrument signed by a majority of the then Owners has been recorded agreeing to terminate the covenants, conditions and restrictions.
+
+# Article 16. Reservation Of Declarant'S Right To Amend.
+
+# Section 16.1 Amendment by Declarant.
+Declarant reserves the right to amend the Declaration as may be necessary to comply with Federal Home Loan Mortgage Corporation ("FMC") or federal National Mortgage Association ("FNMA") or Federal Housing Administration ("FHA") regulations or requirements as necessary to enable the holders of first mortgages or deeds of trust to sell first mortgages or deeds of trust to FHLMC or FNMA or if such amendment is necessary to secure funds or financing provided by, through or in conjunction with FHLMC or FNMA or FHA or, if such amendment is necessary, in Declarant's sole opinion, for the efficient functioning of the Association, the Property, or the Plat.
+
+# Section 16.2 Authorization to Amend.
+If Declarant, at its option, determines that it is necessary so to amend the Declaration, then Declarant, on behalf of all Lot Owners in the Association, is hereby authorized to execute and to have recorded (or filed, in the case of the Articles) said required amendment or amendments. All Lot Owners hereby grant to Declarant a full and complete power of attorney to take any and all actions necessary to effectuate and record said amendment or amendments and agree that said amendment or amendments shall be binding upon their respective Lots and upon them and their heirs, personal representatives, successors and assigns to the same extent as if they had personally executed said amendment or amendments. All Lot owners hereby acknowledge and agree that the power of attorney granted herein shall be deemed coupled with an interest and shall be irrevocable.
+
+# Section 16.3 Duration.
+Declarant's rights under this Article 15 shall exist only until the Transition Date.
