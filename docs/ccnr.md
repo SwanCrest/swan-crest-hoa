@@ -151,19 +151,19 @@ All buildings or Structures shall be constructed in accordance with the King Cou
 ## Section 3.4 Appearance.
 Unless otherwise approved by the Board, the following design/construction requirements shall apply.
 
-## 3.4.1 Roofing.
+### 3.4.1 Roofing.
 All roofing materials shall be of wood cedar shakes.
 
-## 3.4.2 Siding.
+### 3.4.2 Siding.
 All siding material other than masonry or stucco shall be wood siding stained with those colors commonly known as earth tones.
 
-## 3.4.3 Entry Porches Walks, and Decks.
+### 3.4.3 Entry Porches Walks, and Decks.
 All front entry walks shall be exposed aggregate concrete, and all decks and wood porches shall be constructed of cedar.
 
-## 3.4.4 Driveways.
+### 3.4.4 Driveways.
 All driveways shall be constructed of exposed aggregate concrete paving.
 
-## 3.4.5 Window Coverings.
+### 3.4.5 Window Coverings.
 Curtains, drapes, blinds or valances shall be installed on all windows facing or visible from public roadways within ninety (90) days of occupancy. No newspapers, bed sheets or other makeshift window coverings shall be visible.
 
 ## Section 3.5 Use Restrictions.
@@ -218,3 +218,35 @@ Any damage to streets, Plat improvements, entry structure, fences, landscaping, 
 
 ### 3.5.17 Fences.
 All fences shall conform to the fence detail shown on Exhibit C unless otherwise authorized by the Board. Unless otherwise authorized by the Board, no fence, wall hedge or mass planting over three feet in height, other than foundation planting, shall be permitted to extend nearer to any street than the minimum setback line; however, nothing shall prevent erection of a necessary retaining wall, the top of which does not extend more than two feet above the finished grade at the back of said retaining wall.
+
+# Article 4. Shadows At Swan Lake Homeowners Association.
+
+## Section 4.1 Form of Association.
+The Owners of Lots within the Property shall constitute the members of Shadows at Swan Lake Homeowners Association, a Washington nonprofit corporation to be formed by Declarant. The rights and duties of the members and of the Association shall continue to be governed by the provisions of this Declaration, and the Association's Articles of Incorporation and Bylaws. 
+
+## Section 4.2 Board of Directors.
+The affairs of the Association shall be governed by a Board of Directors (the "Board"). The initial Board shall be as described in the Articles of Incorporation of Shadows at Swan Lake Homeowners Association and shall serve until the Transition Date. After the Transition Date, the Board shall consist of such numbers of members as provided for in the Articles of Incorporation and Bylaws of the Association. Subject to any specific requirements hereof, the Board shall have authority to establish operating rules and procedures. In the event of death or resignation of any member or members of the Board, the remaining member or members, if any, shall have full authority to appoint a successor member or members. Members of the Board shall not be entitled to any compensation for services performed as Directors pursuant to this Declaration. Upon the Transition Date and without further action by any person or persons, (i) the term of the initial Directors or their successors shall end, and (ii) the initial Directors and their then successors shall be released from any and all liability whatsoever for claims arising out of or in connection with this Declaration, excepting only claims arising prior to the Transition Date.
+
+## Section 4.3 Qualification for Membership.
+Each owner of all or a portion of the fee interest in a Lot (including Declarant) shall be a member of the Association. The persons constituting an Owner shall be entitled to one vote for each Lot owned; provided, that if a Lot has been sold on contract, the contract purchaser shall exercise the rights of an Owner for purposes of the Association and this Declaration except as hereinafter limited, and shall be the voting representative unless otherwise specified. Ownership of a Lot shall be the sole qualification for membership in the Association.
+
+## Section 4.4 Transfer of Membership.
+The Association membership of each person constituting an Owner (including Declarant) shall be appurtenant to the Lot giving rise to such membership, and, except as specifically permitted herein, shall not be assigned, transferred, pledged, hypothecated, conveyed, or alienated in any way except upon the transfer of title to the Lot and then only to the transferee of title to the Lot. Any attempt to make a prohibited transfer shall be void. Any transfer of title to a Lot shall operate automatically to transfer the membership in the Association to the persons constituting the new Owner.
+
+## Section 4.5 Number of Votes.
+The total voting power of the Association at any given time shall equal the number of Lots included within the Property at that time. Each Owner of a Lot or Lots shall be entitled to one vote for each Lot owned.
+
+## Section 4.6 Voting.
+If a Lot is owned by more than one person and only one of them is present or represented at a meeting, the one who is present or represented will represent the Owner. The vote for a Lot must be cast as a single vote, and fractional votes shall not be allowed. If joint owners are unable to agree among themselves how their vote shall be cast, they shall lose their right to vote on the matter in question. An Owner may, by written notice to the Board, designate a voting representative for the Lot. The designated voting representative need not be an Owner. The designation may be revoked at any time by written notice to the Board from a Person having an ownership interest in a Lot, or by actual notice to the Board of the death or judicially declared incompetence of any Person with an ownership interest in the Lot, except in cases in which the Person designated is a Mortgagee of the Lot. This power of designation and revocation may be exercised by the guardian of an Owner, the attorney-in-fact for the Owner under a durable power of attorney, and the administrator or executor of an Owner's estate. If no designation has been made, or if a designation has been revoked and no new designation has been made, the voting representative of each Lot shall be the group composed of all of its Owners.
+
+## Section 4.7 Pledged Votes.
+An Owner may, but shall not be obligated to, pledge his vote on all issues or on certain specific issues to a Mortgagee; provided, however, that if an Owner is in default under a Mortgage on his Lot for 90 consecutive days or more, the Owner's Mortgagee shall automatically be authorized to declare at any time thereafter that the Owner has pledged his vote to the Mortgagee on all issues arising after such declaration and during the continuance of the default. If the Board has been notified of any such pledge to a Mortgagee, only the vote of the Mortgagee will be recognized on the issues that are subject to the pledge.
+
+## Section 4.8 Annual and Special Meetings.
+Within the period commencing 30 days before the Transition Date and ending 30 days after the Transition Date, there shall be a meeting of the members of the Association and thereafter there shall be an annual meeting of the members of the Association in the first quarter of each fiscal year at such reasonable place and time as may be designated by written notice from the Board delivered to the Owners no less than 30 days before the meeting. At the first such meeting, and at each annual meeting thereafter, the Owners shall elect by majority vote individuals to serve as Directors until a successor is elected at the next annual meeting. Each Lot shall be entitled to one vote for each Director and the voting for Directors shall be non-cumulative. The financial statement for the preceding fiscal year (if any) and the budget the Board has adopted for the pending fiscal year shall be presented at the annual meeting for the information of the members. Special meetings of the members of the Association may be called at any time upon not less than 14 days prior written notice to all Owners, for the purpose of considering matters which require the approval of all or some of the Owners, or for any other reasonable purpose. Any First Mortgagee of a Lot may attend or designate a representative to attend the meetings of the Association.
+
+## Section 4.9 Books and Recordings.
+The Board shall cause to be kept complete, detailed, and accurate books and records of the receipts and expenditures (if any) of the Association, in a form that complies with generally accepted accounting principles. The books and records, authorizations for payment of expenditures, and all contracts, documents, papers, and other records of the Association shall be available for examination by the Lot Owners, Mortgagees, and the agents or attorneys of either of them, during normal business hours and at any other reasonable time or times.
+
+## Section 4.10 Transition Date.
+The "Transition Date" shall be the date control of the Board passes from the initial Board to the Association. Prior to the Transition Date, Declarant shall be entitled to exercise all rights and powers of the Board and the Association. At Declarant's option, the Transition Date will be either: (i) the date designated by Declarant in a written notice to the Owners, which date may be by Declarant’s election any date after this Declaration has been recorded; or (ii) the 12th day after Declarant has transferred title to purchasers title to all Lots in the Property. For purposes of the foregoing clause (ii) transfer of title to a Lot by Declarant to any Participating Builder shall be disregarded and title to any Lot owned by Participating Builder shall not be deemed transferred for purposes of determining the Transition Date until the Lot is further transferred by Participating Builder to a purchaser who is not either a Participating Builder or Declarant. 
