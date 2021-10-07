@@ -120,3 +120,101 @@ Lots 1 and 11 are subject to easements in favor of King County for the purpose o
 
 ## Section 2.11 Conditions for Grant of Easements.
 The easements granted in Section 2.1 are subject to the agreement of grantees to compensate grantor (or grantor's successors and assigns) for any damage to the affected property caused by the exercise of grantee's easement rights; to use reasonable care in carrying out any construction or repair in the easement areas and to restore such areas, to the extent reasonably practicable, to the condition they were immediately prior to such work; and to indemnify and hold harmless grantor (and grantor's successors and assigns) from any and all claims for injuries and/or damages suffered by any person caused by grantee's exercise of the rights herein granted.
+
+# Article 3. Construction On Lots And Use Of Lots.
+
+## Section 3.1 Uniformity of Use and Appearance.
+One of the purposes of this Declaration is to assure within the Property a uniformity of use and quality of workmanship, materials, design, maintenance and location of Structures with respect to topography and finish grade elevation. It is in the best interests of each Owner that such uniformity of use be maintained as hereinafter provided. Notwithstanding anything herein set forth, the Construction of any Structure shall comply with the more restrictive of either (i) the terms and conditions of this Declaration or (ii) the laws, codes, ordinances and regulations of any governmental entity having jurisdiction.
+
+## Section 3.2 Submission and Approval of Plans
+
+### 3.2.1 Construction.
+No Structure shall be Constructed or caused to be Constructed on any Lot unless the Plans for the Structure have been approved in writing by the Board. The Board’s approval of any Plans shall not constitute any warranty or representation whatsoever by the Board or any of its members that such Plans were examined or approved for engineering or structural integrity or sufficiency or compliance with applicable governmental laws, codes, ordinances and regulations, and each Owner hereby releases any and all claims or possible claims against the Board or any of them, and their heirs, successors and assigns, or of any nature whatsoever, based upon engineering or structural integrity or sufficiency or compliance with applicable governmental laws, codes, ordinances and regulations.
+
+### 3.2.2 Submission.
+At least 45 days before commencing Construction of any Structure on any Lot, the Owner shall submit to the Board two complete sets of detailed building, construction, surface water run-off control and specifications and a site plan showing the location of all proposed Structures (the plans, specifications and site plans are individually and collectively referred to herein as the "Plans").
+
+### 3.2.3 Approval.
+The Board may withhold its approval by reason of its reasonable dissatisfaction with the location of the Structure on the Lot, color scheme, finish, architecture, height, impact on view from another Lot or Lots, appropriateness of the proposed Structure or materials used therein. The Board's approval or disapproval of Plans shall be made within 45 days of submission of a complete set of plans, shall be in writing, and approval shall be evidenced by written endorsement on such Plans, one copy of which shall be delivered to the owner of the Lot upon which the Structure is to be Constructed. Except for violation of those restrictions specifically set forth in Sections 3.3 through 3.5, if no suit challenging any construction has been commenced within six months after its completion, Board approval will not be required and the related Covenants shall be deemed to have been fully complied with.
+
+## Section 3.3 Size and Height.
+
+### 3.3.1 Floor Area.
+The floor area of the main house Structure, exclusive of open porches and garages shall be not less than: (i) 1,500 square feet for a dwelling containing a single level; and (ii) 1,800 square feet for a dwelling containing two levels.
+
+### 3.3.2 Lot Size.
+No Lot or portion of a Lot in this Plat shall be divided and sold or resold, or ownership changed or transferred whereby the ownership of any portion of this Plat shall be less than the area required for the use district in which the Lot is located.
+
+### 3.3.3 Local Codes.
+All buildings or Structures shall be constructed in accordance with the King County and other applicable Codes. In the event of a conflict between any applicable codes and these CC&Rs, the codes shall govern.
+
+## Section 3.4 Appearance.
+Unless otherwise approved by the Board, the following design/construction requirements shall apply.
+
+## 3.4.1 Roofing.
+All roofing materials shall be of wood cedar shakes.
+
+## 3.4.2 Siding.
+All siding material other than masonry or stucco shall be wood siding stained with those colors commonly known as earth tones.
+
+## 3.4.3 Entry Porches Walks, and Decks.
+All front entry walks shall be exposed aggregate concrete, and all decks and wood porches shall be constructed of cedar.
+
+## 3.4.4 Driveways.
+All driveways shall be constructed of exposed aggregate concrete paving.
+
+## 3.4.5 Window Coverings.
+Curtains, drapes, blinds or valances shall be installed on all windows facing or visible from public roadways within ninety (90) days of occupancy. No newspapers, bed sheets or other makeshift window coverings shall be visible.
+
+## Section 3.5 Use Restrictions.
+
+### 3.5.1 Residential Use.
+The Lots shall be used only for single family residential purposes, and only one single family residence (and such accessory structures as are approved pursuant to this Article 3) shall be constructed on each Lot. Temporary "model homes" and real estate sales offices established for the purpose of marketing the Plat shall be considered a residential use until houses have been built and sold on all Lots.
+
+### 3.5.2 Maintenance of Buildings and Lots.
+Each Owner shall, at the Owner's sole expense, keep the interior and exterior of the Structure on the Owner's Lot, as well as the Lot, in a clean and sanitary condition, free of rodents end pests, and in good order, condition and repair and shall do all redecorating, painting, landscaping, and maintenance at any time necessary to maintain the appearance and condition of the Structure and the Lot.
+
+### 3.5.3 Maintenance of Landscaping.
+Owners shall at all times keep the front yard landscaping well maintained, including weed removal, mowing, fertilizing and watering (subject to governmental limitations on watering). If an Owner fails to so maintain the front yard, and fails to cure the defect within thirty (30) days after notice from the Board, then the Board may, by resolution adopted by seventy-five percent (75%) of the total Board membership, engage a commercial landscaping company to do necessary maintenance and may separately assess such maintenance as a charge against the Lot.
+
+### 3.5.4 Completion of Construction.
+Any Structure erected or placed on any Lot shall be completed as to external appearance within eight months from the date Construction is started, however, with good cause shown, the Board may extend this term. All front landscaping must be completed within one month from the date of issuance of the certificate of occupancy, all side and rear landscaping must be completed within six (6) months of issuance of certificate of occupancy, however, with good cause shown, the Board may extend this term. All Lots shall be maintained in a neat and orderly condition during Construction.
+
+### 3.5.5 Parking.
+No commercial-type trucks, campers, trailers, moterhomes, boats or motorcycles shall be parked or permitted to remain on any Lot, unless the same is stored or placed in a garage, in a rear yard area screened from adjoining lots, or in a screened carport. No such vehicles shall be parked overnight on any street adjoining any Lot; provided that such vehicles belonging to guests may occasionally be so parked. No motor vehicles, inoperative for reasons of mechanical failure, shall be parked and/or stored on any Lot or in the street rightof-way for more than 72 hours.
+
+### 3.5.6 Signs.
+No sign of any kind shall be displayed to the public view on or from any Lot without the prior written consent of the Board, except for "For Rent" or "For Sale" signs in a form not prohibited by any rules and regulations of the Board. This Section shall not apply to the Declarant or any Participating Builder.
+
+### 3.5.7 Animals.
+No horses, livestock, poultry, reptiles, pigs or other non-domestic animals shall be kept on any lot. All animal enclosures must be kept in a clean, neat and odor-free condition at all times. Notwithstanding anything set forth herein all Owners shall comply with all applicable governmental laws, codes, ordinances, and relations pertaining to animals.
+
+### 3.5.8 Temporary Structures.
+No Structure of a temporary character, trailer, tent, shack, garage, barn, or other outbuilding shall be installed, placed or used an any Lot as a residence, either temporarily or permanently.
+
+### 3.5.9 Clothes Lines.
+No washing, rugs, clothing, apparel or any other article shall be hung from the exterior of any Structure or on a Lot so as to be visible from the streets and roadways adjoining the Lots.
+
+### 3.5.10 Woodpiles.
+No woodpiles shall be located within the front yard, or in any other location visible from the street.
+
+### 3.5.11 Radio and Television Aerials and Satellite Dishes.
+No television or radio aerial shall be erected or placed on any Lot. No rotary beams, separate towers or other similar devises shall be constructed on any Lot without the written approval of the Board. No satellite receiving dishes or other such electronic receiving devices shall be located on any Lot in a location that is visible from the adjoining homes, streets, and roadways. All aerial and satellite dish installations must receive prior written approval from the Board.
+
+### 3.5.12 Trash Containers and Debris.
+All trash shall be placed in sanitary containers either buried or screened so as not to be visible .from adjoining Structures -or streets or roadways. No Lot or any portion thereof shall be used as a dumping ground for trash or rubbish of any kind. Yard rakings, dirt and debris resulting from landscaping work or Construction shall not be dumped onto adjoining lots or streets or roadways. Compost piles may be kept upon the Lots provided they are kept in a clean, neat, odorless and sanitary condition.
+
+### 3.5.13 Offensive Activity.
+No trade, craft, business, profession, commercial or manufacturing enterprise or business or commercial activity of any kind, including day schools, nurseries, or church schools (except in-home day care for not more than two children, provided that there shall be no external signage of such activity), shall be conducted or permitted on any Lot, nor shall goods, equipment, vehicles or materials used in connection therewith, be kept, parked, stored, dismantled or repaired outside of any Lot or any street within the Property. No noxious activity, including but not limited to the creation of excess levels of noise, shall be carried on in any Lot, nor shall anything be done therein which may be or become an annoyance or nuisance to other Owners or tenants.
+
+### 3.5.14 Underground Utilities.
+No outdoor overhead wire or service drop for the distribution of electric energy or for telecommunications purposes nor any pole, tower or other structure supporting said outdoor overhead wires shall be erected, placed or maintained within the Property. All Owners shall use underground service wires to connect any Structure to electric or telephone utility facilities.
+
+### 3.5.15 Water Supply/Sewage Disposal.
+No individual water supply system or individual sewage system shall be permitted on any Lot.
+
+### 3.5.16 Damage.
+Any damage to streets, Plat improvements, entry structure, fences, landscaping, mailboxes, lights and lighting standards by Lot Owners, their children, contractors, agents, visitors, friends, relatives or service personnel shall be repaired and restored to like new condition by such Owner within twelve (12) days from the occurrence of such damage.
+
+### 3.5.17 Fences.
+All fences shall conform to the fence detail shown on Exhibit C unless otherwise authorized by the Board. Unless otherwise authorized by the Board, no fence, wall hedge or mass planting over three feet in height, other than foundation planting, shall be permitted to extend nearer to any street than the minimum setback line; however, nothing shall prevent erection of a necessary retaining wall, the top of which does not extend more than two feet above the finished grade at the back of said retaining wall.
