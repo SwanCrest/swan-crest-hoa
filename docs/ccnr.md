@@ -152,10 +152,20 @@ All buildings or Structures shall be constructed in accordance with the King Cou
 Unless otherwise approved by the Board, the following design/construction requirements shall apply.
 
 ### 3.4.1 Roofing.
-All roofing materials shall be of wood cedar shakes.
+Existing cedar shake roofs may be replaced with architecture style composite shingles. The list below contains acceptable examples. All roofs are to be unpainted cedar shingles, shakes, tile, or architecture style composition shingles with a minimum weight 400 lbs. per square. Certain synthetic roof systems are allowed, subject to Board approval prior to installation. Metal roofs are not allowed. Composite shingle roof replacement options are restricted to the colors and products in the list below. All prospective non-cedar roof replacement projects require board approval prior to installation.
+
+Acceptable Examples of Replacement Roofs
+
+| Manufacturer/Product  | Weight per Square | Colors |
+|-----------------------|-------------------|--------|
+| CertainTeed / Presidential TL | 480 lbs. | Aged Bark, Autumn Blend, Charcoal Black, Country Gray, Platinum, Shadow Gray |
+| GAF-Elk / Grand Canyon        | 400+ lbs.	| Black Oak, Mission Brown, Sedona Sunset, Stone Wood, Storm Cloud Gray |
+| Owens Corning / Woodmoore | 465 lbs. | Carbon, Chestnut, Granite, Mesquite, Sycamore, Timber
+| Pabco / Paramount Advantage | 495 lbs. | Antique Black, Cedarwood, Driftwood, Oakwood, Pewter Gray, Weathered Wood |
+
 
 ### 3.4.2 Siding.
-All siding material other than masonry or stucco shall be wood siding stained with those colors commonly known as earth tones.
+All siding material shall be masonry, stucco, or a premium quality beveled wood or Hardiplank lap siding. All material other than masonry or stucco shall be horizontal with an exposure between 4 inches and 6 inches, painted or stained with earth tone colors.
 
 ### 3.4.3 Entry Porches Walks, and Decks.
 All front entry walks shall be exposed aggregate concrete, and all decks and wood porches shall be constructed of cedar.
@@ -316,7 +326,7 @@ Each Director, and Declarant shall be indemnified by the Association against all
 At such times as the Board deems appropriate, the Board shall cause the Association to purchase and maintain as a common expense a policy or policies which the Board deems necessary or desirable to provide casualty insurance; comprehenSive liability insurance; with such deductible provisions as the Board deems advisable; insurance, if available, for the protection of the Association's Directors, and representatives from personal liability in the management of the Association's affairs; and such other insurance as the Board deems advisable. The Board shall review the adequacy of the Association's insurance coverage at least annually.
 
 # Article 13. Amendments Of Declaration.
-After the Transition Date, any Lot Owner may propose amendments to this Declaration to the Board. A majority of the members of the Board may cause a proposed amendment to be submitted to the members of the Association for their consideration. If an amendment is proposed by Owners of 20% or more of the Lots, then, irrespective of whether the Board concurs in the proposed amendment, it Shall be submitted to the members of the Association for their consideration at their next regular or special meeting for which timely notice may be given. Notice of a meeting at which an amendment is to be considered shall include the text of the proposed amendment, Amendments may be adopted at a meeting of the Association or by written consent of the requisite number of Persons entitled to vote, after notice has been given to all Persons entitled to receive notice of a meeting of the Association. The unanimous consent of all Owners shall be required for adoption of an amendment changing the voting power or portion of assessments appurtenant to each Lot. All other amendments shall be adopted if approved by at least 67% of all Lot Owners. Once an amendment has been adopted by the Association, the amendment will become effective when a certificate of the amendment, executed by a member of the Board, has been recorded in the real property Records of Snohomish County, Washington.
+After the Transition Date, any Lot Owner may propose amendments to this Declaration to the Board. A majority of the members of the Board may cause a proposed amendment to be submitted to the members of the Association for their consideration. If an amendment is proposed by Owners of 20% or more of the Lots, then, irrespective of whether the Board concurs in the proposed amendment, it Shall be submitted to the members of the Association for their consideration at their next regular or special meeting for which timely notice may be given. Notice of a meeting at which an amendment is to be considered shall include the text of the proposed amendment, Amendments may be adopted at a meeting of the Association or by written consent of the requisite number of Persons entitled to vote, after notice has been given to all Persons entitled to receive notice of a meeting of the Association. The unanimous consent of all Owners shall be required for adoption of an amendment changing the voting power or portion of assessments appurtenant to each Lot. All other amendments shall be adopted if approved by at least 67% of all Lot Owners. Once an amendment has been adopted by the Association, the amendment will become effective when a certificate of the amendment, executed by a member of the Board, has been recorded in the real property Records of King County, Washington.
 
 # Article 14. Annexation And Subdivision.
 Residential property other than common areas may be annexed or added to the Property by Declarant at any time prior to the Transition Date. Thereafter, residential property other than common areas may be annexed or added to the Property only with the consent of 67% of the Lot Owners. No Lot shall be subdivided or combined without the approval of all Lot Owners.
