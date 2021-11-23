@@ -1,3 +1,8 @@
+# Declaration And Covenants, Conditions, Restrictions, Easements And Reservations For Shadows At Swan Lake
+
+This Declaration And Covenants, Conditions, Restrictions, Easements And Reservations For Shadows at Swan Lake (the "Declaration") is made by COUNTRYWOOD HOMES, INC., a Washington corporation ("Declarant") as of this 15 day of March, 1995.
+
+# Recording Summary
 Recorded at Request of and
 After Recording Return to:
 
@@ -8,11 +13,7 @@ Association of Shadows at Swan Lake  Homeowners Association
 Redmond, WA 98053
 ```
 
-This Document, which has been approved by the Shadows at Swan Lake Homeowners Association   as an outcome of the Association meeting held September 12th, 2021, is an amendment to the original Declaration File No. 95403301599, submitted March 15th, 1995, and the Amendments filed May 19th, 2010.
-
-# Declaration And Covenants, Conditions, Restrictions, Easements And Reservations For Shadows At Swan Lake
-
-This Declaration And Covenants, Conditions, Restrictions, Easements And Reservations For Shadows at Swan Lake (the "Declaration") is made by COUNTRYWOOD HOMES, INC., a Washington corporation ("Declarant") as of this 15 day of March, 1995.
+This Document, which has been approved by the Shadows at Swan Lake Homeowners Association as an outcome of the Association meeting held September 12th, 2021, is an amendment to the original Declaration File No. 95403301599, submitted March 15th, 1995, and the Amendments filed May 19th, 2010.
 
 # Recitals
 
