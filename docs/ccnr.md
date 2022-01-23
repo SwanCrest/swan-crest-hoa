@@ -103,7 +103,7 @@ Tract A is hereby dedicated to King County for storm detention purposes and King
 Lots 1 and 11 shall be subject to an easement for installation, repair, replacement and operation of entry monumentation and landscaping, which is legally described in Exhibit B. The Association shall be responsible for maintenance, operation and repair of the entry monumentation and landscaping and may assess the Lot Owners for payment of expenses relating thereto.
 
 ## Section 2.4 Restrictive Areas.
-No clearing of vegetation is permitted within the Restrictive Areas except for installation and maintenance of drainfields and cleaning and removal of existing debris piles. The owners of the Restrictive Areas shall be the Owners of the underlying fee of the respective abutting Lots, as indicated by the dotted lines, as shown on the face of the Plat. Each Owner shall be responsible for maintenance of the Restrictive Area associated with their respective Lot.
+No clearing of vegetation is permitted within the Restrictive Areas except for installation and maintenance of drain fields and cleaning and removal of existing debris piles. The owners of the Restrictive Areas shall be the Owners of the underlying fee of the respective abutting Lots, as indicated by the dotted lines, as shown on the face of the Plat. Each Owner shall be responsible for maintenance of the Restrictive Area associated with their respective Lot.
 
 ## Section 2.5 Limited Access.
 There shall be no direct vehicular ingress or egress directly onto 238th Avenue N.E. from Lots 1 and 11.
@@ -112,7 +112,7 @@ There shall be no direct vehicular ingress or egress directly onto 238th Avenue 
 Lot 4 is subject to a private storm drainage easement fifteen feet in width as shown on the face of the Plat, for the benefit of Lot 5.
 
 ## Section 2.7 Common Driveway.
-Lot 5 is subject to an easement fifteen feat in width on which a driveway will be located to provide common ingress and egress to Lots 4 and 5. The Owners of Lots 4 and 5 will share equally in the costs of repair, maintenance, construction and replacement of the common driveway located in the easement area. Any dispute between the Owners of Lots 4 and 5 concerning the Common Driveway or the terms of this Section shall be submitted to the Board for resolution and the decision of the Board shall be binding.
+Lot 5 is subject to an easement fifteen feet in width on which a driveway will be located to provide common ingress and egress to Lots 4 and 5. The Owners of Lots 4 and 5 will share equally in the costs of repair, maintenance, construction and replacement of the common driveway located in the easement area. Any dispute between the Owners of Lots 4 and 5 concerning the Common Driveway or the terms of this Section shall be submitted to the Board for resolution and the decision of the Board shall be binding.
 
 ## Section 2.8 Public Roadway Easement.
 Lot 11 is subject to a public roadway easement for future street widening, as set forth on the face of the Plat.
@@ -341,7 +341,7 @@ So long as a Director, or Association member; acting on behalf of the Board or t
 Each Director shall be indemnified by the Association against all expenses and liabilities, including attorneys’ fees, reasonably incurred by or imposed in connection with any proceeding to which such person may be party or in which such person may become involved, by reason of holding or having held such position, or any settlement thereof, whether or not such person holds such position at the time such expenses or liabilities are incurred, except to the extent such expenses and liabilities are covered by insurance actually obtained by the Board and except in such cases wherein such Director is adjudged guilty of willful misfeasance in the performance of his or her duties; provided, that in the event of a settlement, the indemnification shall apply only when the Board approves such settlement and reimbursement as being for the best interests of the Association.
 
 # Article 12. Insurance.
-At such times as the Board deems appropriate, the Board shall cause the Association to purchase and maintain as a common expense a policy or policies which the Board deems necessary or desirable to provide casualty insurance; comprehenSive liability insurance; with such deductible provisions as the Board deems advisable; insurance, if available, for the protection of the Association's Directors, and representatives from personal liability in the management of the Association's affairs; and such other insurance as the Board deems advisable. The Board shall review the adequacy of the Association's insurance coverage at least annually.
+At such times as the Board deems appropriate, the Board shall cause the Association to purchase and maintain as a common expense a policy or policies which the Board deems necessary or desirable to provide casualty insurance; comprehensive liability insurance; with such deductible provisions as the Board deems advisable; insurance, if available, for the protection of the Association's Directors, and representatives from personal liability in the management of the Association's affairs; and such other insurance as the Board deems advisable. The Board shall review the adequacy of the Association's insurance coverage at least annually.
 
 # Article 13. Amendments Of Declaration.
 After the Transition Date, any Lot Owner may propose amendments to this Declaration to the Board. A majority of the members of the Board may cause a proposed amendment to be submitted to the members of the Association for their consideration. If an amendment is proposed by Owners of 20% or more of the Lots, then, irrespective of whether the Board concurs in the proposed amendment, it Shall be submitted to the members of the Association for their consideration at their next regular or special meeting for which timely notice may be given. Notice of a meeting at which an amendment is to be considered shall include the text of the proposed amendment, Amendments may be adopted at a meeting of the Association or by written consent of the requisite number of Persons entitled to vote, after notice has been given to all Persons entitled to receive notice of a meeting of the Association. The unanimous consent of all Owners shall be required for adoption of an amendment changing the voting power or portion of assessments appurtenant to each Lot. All other amendments shall be adopted if approved by at least 67% of all Lot Owners. Once an amendment has been adopted by the Association, the amendment will become effective when a certificate of the amendment, executed by a member of the Board, has been recorded in the real property Records of King County, Washington.
@@ -362,10 +362,10 @@ This Declaration shall be effective upon recording.
 Missing.
 
 # Exhibit B. Description of Landscape Easement.
-![Exhibit B-1](../img/exhibit_b_1.png)
-![Exhibit B-2](../img/exhibit_b_2.png)
-![Exhibit B-3](../img/exhibit_b_3.png)
-![Exhibit B-4](../img/exhibit_b_4.png)
+![Exhibit B-1](./img/exhibit_b_1.png)
+![Exhibit B-2](./img/exhibit_b_2.png)
+![Exhibit B-3](./img/exhibit_b_3.png)
+![Exhibit B-4](./img/exhibit_b_4.png)
 
 # Exhibit C. Fence Detail.
-![Exhibit C-1](../img/exhibit_c_1.png)
+![Exhibit C-1](./img/exhibit_c_1.png)
