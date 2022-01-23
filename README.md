@@ -36,4 +36,11 @@ To build the docs you must have installed:
    ```
    > bin\build
    ```
-   This will run pandoc on all 3 `.md` files and produce their `.pdf` counterparts.
+   This will run pandoc on all 3 `.md` files and produce their `.pdf` and/or `.docx` counterparts.
+
+4. If building for Word (`docx`) then once built these manual steps are required:
+   1. Insert the content from `ccnr-cover-page.docx` at the beginning of the document.
+   2. Insert one page break (`ctrl`+`enter` in Word) after the main title and after the table of contents.
+   3. Add Page Numbers (in modern Word, Type `alt`+`Q` and search `Page Numbers` and the action will come up, add them  in bottom center).
+   4. Hover on the Table Of Contents and click `!Update Table` and select `Page Numbers Only`.
+   5. Save and commit.
