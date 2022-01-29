@@ -1,7 +1,7 @@
 @ECHO OFF
 
 rem Word
-pandoc -o ccnr_1.docx -f markdown --reference-doc reference.docx --toc ccnr.md
+pandoc -o "cc&r.docx" -f markdown --reference-doc reference.docx --toc ccnr.md
 pandoc -o bylaws.docx -f markdown --reference-doc reference.docx --toc bylaws.md
 pandoc -o articles_of_incorporation.docx -f markdown --reference-doc reference.docx --toc articles_of_incorporation.md
 
