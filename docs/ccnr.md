@@ -1,19 +1,6 @@
 # Declaration And Covenants, Conditions, Restrictions, Easements And Reservations For Shadows At Swan Lake
 
-This Declaration And Covenants, Conditions, Restrictions, Easements And Reservations For Shadows at Swan Lake (the "Declaration") is made by COUNTRYWOOD HOMES, INC., a Washington corporation ("Declarant") as of this 15 day of March, 1995.
-
-# Recording Summary
-Recorded at Request of and
-After Recording Return to:
-
-```
-Eric Linger 
-Association of Shadows at Swan Lake  Homeowners Association
-23705 NE 61st Street
-Redmond, WA 98053
-```
-
-This Document, which has been approved by the Shadows at Swan Lake Homeowners Association as an outcome of the Association meeting held September 12th, 2021, is an amendment to the original Declaration File No. 95403301599, submitted March 15th, 1995, and the Amendments filed May 19th, 2010.
+The Declaration and Covenants, Conditions, Restrictions, Easements and Reservations (CC&Rs) for Shadows at Swan Lake (the "Declaration") were originally made by Countrywood Homes, Inc., a Washington corporation on ("Declarant") March 15, 1995.  These CC&Rs replace the original CC&Rs and subsequent amendments filed with King County and are filed with King County by the current declarant, Shadows at Swan Crest.
 
 # Recitals
 
@@ -40,7 +27,7 @@ shall mean the Board of Directors of the Association, and "Directors" shall mean
 shall mean any construction, reconstruction, erection or alteration of an Improvement, except wholly interior alterations to a then existing Structure.
 
 ### 1.1.4 "Declarant"
-shall mean Countrywood Homes, Inc. or such successor or assign (including a Participating Builder) as Declarant may designate by a writing recorded in the records of the Auditor of King County.
+shall mean Shadows at Swan Lake or such successor that Declarant may assign and put in writing and record with King County.
 
 ### 1.1.5 "Declaration"
 shall mean this Declaration of Covenants, Conditions, Restrictions, and Reservations for Shadows at Swan Lake, as it may from time to time be amended.
@@ -60,22 +47,22 @@ shall mean the beneficial owner, or the designee of the beneficial owner, of an 
 ### 1.1.10 "Owner"
 shall mean the record owner, whether one or more Persons, of fee simple title to a Lot within the Property, including a contract purchaser entitled to beneficial possession.
 
-### 1.1.11 “Participating Builder”
+### 1.1.11 "Participating Builder"
 shall mean a Person who acquires from Declarant one or more Lots for the purpose of improving the same for resale to future Owners.
 
-### 1.1.12 “Person"
+### 1.1.12 "Person"
 shall mean an individual, corporation, partnership, association, trustee, or other legal entity.
 
 ### 1.1.13 "Plat"
 shall mean the recorded plat of Shadows at Swan Lake and any amendments, corrections or addenda thereto subsequently recorded.
 
-### 1.1.14 “Property"
+### 1.1.14 "Property"
 shall mean the land described on Exhibit A and such additions thereto as may hereafter be subjected to the terms of the Declaration, and all improvements and structures now or hereafter placed on the land.
 
 ### 1.1.15 "Restrictive Areas"
 shall mean those areas which are designated as such on the face of the Plat.
 
-### 1.1.16. “Structure”
+### 1.1.16. "Structure"
 shall mean any building, fence, wall, driveway, walkway, patio, garage, storage shed, carport, mailboxes, swimming pool, rockery, dog run or the like.
 
 ### 1.1.17 "Transition Date"
@@ -269,7 +256,7 @@ There shall be a meeting of the members of the Association and thereafter there 
 The Board shall cause to be kept complete, detailed, and accurate books and records of the receipts and expenditures (if any) of the Association, in a form that complies with generally accepted accounting principles. The books and records, authorizations for payment of expenditures, and all contracts, documents, papers, and other records of the Association shall be available for examination by the Lot Owners, Mortgagees, and the agents or attorneys of either of them, during normal business hours and at any other reasonable time or times.
 
 ## Section 4.10 Transition Date.
-The “Transition Date” shall be the date control at the Board passes from the initial Board to the Association. The Transition occurred in September 1996.
+The "Transition Date" shall be the date control at the Board passes from the initial Board to the Association. The Transition occurred in September 1996.
 
 # Article 5. Notices For All Purposes.
 All notices given to homeowners under the provisions of this Declaration or rules or regulations of the Association shall be in writing and may be delivered either personally or by mail or by e-mail. If delivery is made by mail, the notice shall be deemed to have been delivered on the third day of regular mail delivery after a copy has been deposited in the United States mail, first class, postage prepaid, addressed to the Person entitled to such notice at the most recent address known to the Board. Notices to the Board may be given by electronic email at swan-crest-board@googlegroups.com or mailed to the following address:
