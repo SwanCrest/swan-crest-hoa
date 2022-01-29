@@ -1,11 +1,11 @@
 @ECHO OFF
 
 rem Word
-pandoc -o ccnr.docx -f markdown --toc -V geometry:"left=3cm, right=3cm" ccnr.md
-pandoc -o bylaws.docx -f markdown --toc -V geometry:"left=3cm, right=3cm" bylaws.md
-pandoc -o articles_of_incorporation.docx -f markdown --toc -V geometry:"left=3cm, right=3cm" articles_of_incorporation.md
+pandoc -o ccnr_1.docx -f markdown --reference-doc reference.docx --toc ccnr.md
+pandoc -o bylaws.docx -f markdown --reference-doc reference.docx --toc bylaws.md
+pandoc -o articles_of_incorporation.docx -f markdown --reference-doc reference.docx --toc articles_of_incorporation.md
 
 rem PDF
-rem pandoc -o ccnr.pdf -f markdown --toc -V geometry:"left=3cm, right=3cm" ccnr.md
-rem pandoc -o bylaws.pdf -f markdown --toc -V geometry:"left=3cm, right=3cm" bylaws.md
-rem pandoc -o articles_of_incorporation.pdf -f markdown --toc -V geometry:"left=3cm, right=3cm" articles_of_incorporation.md
+pandoc -o "cc&r.pdf" -f markdown --toc -V geometry:"top=1.04in, bottom=1.71in, left=1.07in, right=1.06in" ccnr.md
+pandoc -o bylaws.pdf -f markdown --toc -V geometry:"top=1.04in, bottom=1.71in, left=1.07in, right=1.06in" bylaws.md
+pandoc -o articles_of_incorporation.pdf -f markdown --toc -V geometry:"top=1.04in, bottom=1.71in, left=1.07in, right=1.06in" articles_of_incorporation.md
