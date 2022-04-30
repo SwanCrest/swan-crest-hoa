@@ -22,23 +22,23 @@ To build the docs you must have installed:
 
 1. Open a terminal and make sure that `pandoc` is available on the command line (a.k.a in your terminal).
    Type `where pandoc` and you should get something like
-   ```
-   D:\swan-crest-hoa>where pandoc
+   ```powershell
+   D:\swan_crest_hoa>Get-Command pandoc
    C:\Users\kylew\AppData\Local\Pandoc\pandoc.exe
    ```
 
 2. `cd` into the `docs\` folder.
-   ```
+   ```powershell
    > cd docs\
    ```
 
 3. Run the build script:
-   ```
+   ```powershell
    > bin\build
    ```
    This will run pandoc on all 3 `.md` files and produce their `.pdf` and/or `.docx` counterparts.
 
-4. Manual steps for Word (`docx`) after build:
+4. Manual steps for the `CC&R.docx` after build:
    1. Insert a page before the Table of Contents. With the cursor at the beginning of the document use `CTRL-Enter` to enter a new page break.
    2. Insert the content from `ccnr-cover-page.docx` at the beginning of the document. Go to the Insert ribbon, click `Insert Object`, and select `Text from File` and select the `ccnr-cover-page.docx`.
    3. Add Page Numbers (in modern Word, Type `alt`+`Q` and search `Page Numbers` and the action will come up, add them  in bottom center).

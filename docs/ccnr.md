@@ -108,7 +108,7 @@ Lot 11 is subject to a public roadway easement for future street widening, as se
 Lots 6, 7 and 8 are subject to a temporary turnaround easement as set forth on the face of the Plat, which shall terminate at such time N.E. 61st Street is extended in a westerly direction to a publicly maintained road system and is accepted for maintenance by a public entity.
 
 ## Section 2.10 King County Easements - Cuts and Fills.
-Lots 1 and 11 are subject to easements in favor of King County for the purpose of permitting slopes for cuts and fills along 238th Avenue S.E. which easements were recorded under King County Auditor's File Nos. 2916722, 4812911 and 4812932.
+Lots 1 and 11 are subject to easements in favor of King County for the purpose of permitting slopes for cuts and fills along 238th Avenue N.E. which easements were recorded under King County Auditor's File Nos. 2916722, 4812911 and 4812932.
 
 ## Section 2.11 Conditions for Grant of Easements.
 The easements granted in Section 2.1 are subject to the agreement of grantees to compensate grantor (or grantor's successors and assigns) for any damage to the affected property caused by the exercise of grantee's easement rights; to use reasonable care in carrying out any construction or repair in the easement areas and to restore such areas, to the extent reasonably practicable, to the condition they were immediately prior to such work; and to indemnify and hold harmless grantor (and grantor's successors and assigns) from any and all claims for injuries and/or damages suffered by any person caused by grantee's exercise of the rights herein granted.
@@ -148,12 +148,12 @@ Existing cedar shake roofs may be replaced with architecture style composite shi
 
 Acceptable Examples of Replacement Roofs
 
-| Manufacturer/Product  | Weight per Square | Colors |
-|-----------------------|-------------------|--------|
-| CertainTeed / Presidential TL | 480 lbs. | Aged Bark, Autumn Blend, Charcoal Black, Country Gray, Platinum, Shadow Gray |
-| GAF-Elk / Grand Canyon        | 400+ lbs.	| Black Oak, Mission Brown, Sedona Sunset, Stone Wood, Storm Cloud Gray |
-| Owens Corning / Woodmoore | 465 lbs. | Carbon, Chestnut, Granite, Mesquite, Sycamore, Timber
-| Pabco / Paramount Advantage | 495 lbs. | Antique Black, Cedarwood, Driftwood, Oakwood, Pewter Gray, Weathered Wood |
+| Manufacturer/Product          | Weight per Square | Colors                                                                       |
+| ----------------------------- | ----------------- | ---------------------------------------------------------------------------- |
+| CertainTeed / Presidential TL | 480 lbs.          | Aged Bark, Autumn Blend, Charcoal Black, Country Gray, Platinum, Shadow Gray |
+| GAF-Elk / Grand Canyon        | 400+ lbs.         | Black Oak, Mission Brown, Sedona Sunset, Stone Wood, Storm Cloud Gray        |
+| Owens Corning / Woodmoore     | 465 lbs.          | Carbon, Chestnut, Granite, Mesquite, Sycamore, Timber                        |
+| Pabco / Paramount Advantage   | 495 lbs.          | Antique Black, Cedarwood, Driftwood, Oakwood, Pewter Gray, Weathered Wood    |
 
 
 ### 3.4.2 Siding.
@@ -259,7 +259,7 @@ The Board shall cause to be kept complete, detailed, and accurate books and reco
 The "Transition Date" shall be the date control at the Board passes from the initial Board to the Association. The Transition occurred in September 1996.
 
 # Article 5. Notices For All Purposes.
-All notices given to homeowners under the provisions of this Declaration or rules or regulations of the Association shall be in writing and may be delivered either personally or by mail or by e-mail. If delivery is made by mail, the notice shall be deemed to have been delivered on the third day of regular mail delivery after a copy has been deposited in the United States mail, first class, postage prepaid, addressed to the Person entitled to such notice at the most recent address known to the Board. Notices to the Board may be given by electronic email at swan-crest-board@googlegroups.com or mailed to the following address:
+All notices given to homeowners under the provisions of this Declaration or rules or regulations of the Association shall be in writing and may be delivered either personally or by mail or by e-mail. If delivery is made by mail, the notice shall be deemed to have been delivered on the fifth day of regular mail delivery after a copy has been deposited in the United States mail, first class, postage prepaid, addressed to the Person entitled to such notice at the most recent address known to the Board. Notices to the Board may be given by electronic email at swan-crest-board@googlegroups.com or mailed to the following address:
 
 ```
 Board of Directors c/o Kyle Rader
